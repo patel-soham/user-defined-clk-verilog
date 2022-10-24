@@ -3,7 +3,7 @@
 // Select timescale appropriately to make sure your desired numberss
 // are not rounded off, rather shows up with more precision
 `timescale 1ns/1ps
-module a3_3;
+module clock_gen;
   reg clk;
   real freq, tp, duty, jitter, jitter_factor, tp_jitter;
   real prev_time, current_time, freq_check, tp_check;

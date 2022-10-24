@@ -6,4 +6,4 @@ A project to generate user defined jitter, frequency and duty cycle of clock.
 ---
 **Files**
 1. [Verilog Design File](clk.v)
-2. [Run.do](rund.do)
+2. [Run.do](run.do)
